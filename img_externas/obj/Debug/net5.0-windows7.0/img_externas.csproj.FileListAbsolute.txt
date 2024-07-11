@@ -1,0 +1,7 @@
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.csproj.AssemblyReference.cache
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.main.resources
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.csproj.GenerateResource.cache
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.AssemblyInfoInputs.cache
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.AssemblyInfo.cs
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net5.0-windows7.0\img_externas.csproj.CoreCompileInputs.cache
