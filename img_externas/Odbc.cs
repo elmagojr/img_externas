@@ -36,7 +36,7 @@ namespace img_externas
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Conexion rechazada: ", ex.Message);
+                MessageBox.Show("Conexion rechazada: " + ex.Message.ToString(),"ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
         }

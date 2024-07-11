@@ -25,3 +25,4 @@ D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net8.0-window
 D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net8.0-windows\img_externas.pdb
 D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net8.0-windows\img_externas.genruntimeconfig.cache
 D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net8.0-windows\ref\img_externas.dll
+D:\DESAROLLO\imagenes externas\img_externas\img_externas\obj\Debug\net8.0-windows\img_externas.sourcelink.json

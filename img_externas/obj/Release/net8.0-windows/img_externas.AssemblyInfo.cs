@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("img_externas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c03985cf62b8e34749b79a339445e114a87fd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("img_externas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("img_externas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
